@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\r\n\ Class\ helps\ us\ to\ print\ the\ right\ currency\ and\ information\ about\ truck\r\n\ \r\n\ @author\ Hasan\ Guliyev\r\n\ @version\ 5.1.0\r\n\ ++\r\n
+comment1.params=
+comment1.target=Truck()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Truck\r\n
+comment2.params=truckId
+comment2.target=void\ setTruckId(int)
+comment2.text=\r\n\ TruckId\ setter\ of\ TruckId\r\n\ @param\ truckId\r\n
+comment3.params=vehiclePlate\ vehicleColor\ vehiclePrice\ engineType\ enginePower\ truckId
+comment3.target=Truck(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ double,\ int)
+comment4.params=vehiclePlate\ vehicleColor\ enginePower\ truckId
+comment4.target=Truck(java.lang.String,\ java.lang.String,\ double,\ int)
+comment5.params=vehicleColor\ truckId
+comment5.target=Truck(java.lang.String,\ int)
+comment6.params=
+comment6.target=int\ getTruckId()
+comment6.text=\r\n\ get\ the\ id\ of\ Truck\ class\r\n\ @return\ truckId\r\n
+comment7.params=
+comment7.target=double\ getVehiclePriceInCurrency()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ This\ method\ print\ the\ output\ the\ information\ about\ Truck\ Vehicle\r\n\ \r\n
+numComments=9

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sedan
+comment0.text=\r\n\ Class\ helps\ us\ to\ print\ the\ infornamion\ about\ sedan\ car\r\n\ \r\n\ @author\ Hasan\ Guliyev\r\n\ @version\ 5.1.0\r\n\ ++\r\n
+comment1.params=
+comment1.target=Sedan()
+comment1.text=\r\n\ Sedan\ class\ Default\ constructor\r\n\ \r\n
+comment2.params=carId
+comment2.target=Sedan(int)
+comment2.text=\r\n\ Sedan\ constructor\ \ set\ the\ carid\ attribute\ to\ the\ parametr\ value,\r\n\ and\ call\ Car\ class\ constructor\r\n\ \r\n\ @param\ carId\r\n\ \r\n
+comment3.params=vehiclePlate\ vehicleColor\ enginePower\ carId
+comment3.target=Sedan(java.lang.String,\ java.lang.String,\ double,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ method\ print\ the\ output\ the\ sedan\ class\ information\r\n
+numComments=5
